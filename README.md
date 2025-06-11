@@ -12,7 +12,7 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 
 - 🤖 **Machine Learning & Deep Learning**
 - 🌐 **Développement Web Fullstack**
-- 📱 **Développement Mobile (Flutter, React Native)**
+- 📱 **Développement Mobile (React Native)**
 - 🔒 **CyberSécurité & CTF**
 - 🕸️ **Web Scraping & Automatisation**
 - 🚀 **DevOps & Déploiement**
