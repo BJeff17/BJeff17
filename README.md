@@ -73,7 +73,8 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 
 ## 📬 Me Contacter
 
-- 📫 Email : [jeffvieyra17@gmail.com](mailto:jeffvieyra17@gmail.com)
+- Email : [jeffvieyra17@gmail.com](mailto:jeffvieyra17@gmail.com)
+- LinkdIn : [www.linkedin.com/in/jeff-vieyra](www.linkedin.com/in/jeff-vieyra)
 
 ---
 
