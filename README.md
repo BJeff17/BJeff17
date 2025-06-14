@@ -66,7 +66,7 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=ton-utilisateur&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" width="47%"/>
 </p>
 
 ---
