@@ -77,10 +77,7 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" width="30%"/>
 </p>
 
-<!-- Metrics -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BJeff17/BJeff17/main/github-metrics.svg" width="90%">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
