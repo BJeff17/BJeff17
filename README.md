@@ -69,10 +69,7 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" width="48%"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BJeff17&theme=tokyonight" width="30%"/>
