@@ -62,7 +62,28 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
+## 💪 Technos Maîtrisées
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,php,nodejs,react,reactnative,flutter,html,css,js,linux,docker,git,github,kali" width="90%" />
+</p>
+
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BJeff17&theme=tokyonight" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BJeff17&theme=tokyonight" width="30%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" width="30%"/>
+</p>
+
+<!-- Metrics -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BJeff17/BJeff17/main/github-metrics.svg" width="90%">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
