@@ -62,23 +62,26 @@ I thrive on technical challenges, algorithms, automation, and CTFs.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
-## 💪 Technologies Mastered
+---
+
+## 📊 GitHub Stats (Updated & Complete)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,php,nodejs,react,reactnative,flutter,html,css,js,linux,docker,git,github,kali" width="90%" />
+  <!-- Languages by size -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJeff17&layout=compact&theme=tokyonight" alt="Top Languages" width="30%"/>
+  
+  <!-- Repo stats with commits, stars, followers -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="30%"/>
+  
+  <!-- Streaks -->
+  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" alt="GitHub Streak" width="30%"/>
 </p>
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BJeff17&theme=tokyonight" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJeff17&layout=compact&theme=tokyonight" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" width="30%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" width="47%"/>
+  <!-- Total commits counter via third-party API (may require setup or token) -->
+  <img src="https://github-contributions-api.now.sh/api?username=BJeff17" alt="Total Commits" width="45%" />
+  <!-- Productive time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" alt="Productive Time" width="45%"/>
 </p>
 
 ---
@@ -86,7 +89,7 @@ I thrive on technical challenges, algorithms, automation, and CTFs.
 ## 🚀 What Drives Me
 
 I’m constantly seeking to push the boundaries of technology and innovation.  
-I believe in continuous learning, open source contributions, and sharing knowledge with the community.  
+I believe in continuous learning, open source contributions, and sharing knowledge with the community.
 
 In my free time, you’ll find me exploring new AI architectures, solving CTF challenges, automating boring tasks to save time,  
 and sharpening my strategic thinking through my passion for **chess** — a game that teaches patience, foresight, and problem-solving.
