@@ -72,7 +72,7 @@ I thrive on technical challenges, algorithms, automation, and CTFs.
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BJeff17&theme=tokyonight" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BJeff17&theme=tokyonight" width="30%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BJeff17&layout=compact&theme=tokyonight" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" width="30%"/>
 </p>
 
