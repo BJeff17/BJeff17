@@ -1,27 +1,27 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Salut%20👋%20Je%20suis%20un%20Ingénieur%20Autodidacte!&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=ML%20%7C%20Fullstack%20%7C%20Cybersec%20%7C%20Mobile%20%7C%20Scraping&descSize=20&descAlign=65" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Hi%20👋%20I%27m%20a%20Self-Taught%20Engineer!&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=ML%20%7C%20Fullstack%20%7C%20Cybersecurity%20%7C%20Mobile%20%7C%20Scraping&descSize=20&descAlign=65" alt="banner"/>
 
-# 🧠 Ingénieur Autodidacte : IA • Fullstack • CyberSécurité • Mobile
+# 🧠 Self-Taught Engineer: AI • Fullstack • Cybersecurity • Mobile
 
-Bonjour ! Je suis un développeur passionné qui crée des solutions **intelligentes**, **efficaces** et **sécurisées**.  
-Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et les CTF.
+Hello! I’m a passionate developer crafting **smart**, **efficient**, and **secure** solutions.  
+I thrive on technical challenges, algorithms, automation, and CTFs.
 
 ---
 
-## 🧩 Mes Domaines
+## 🧩 My Expertise
 
 - 🤖 **Machine Learning & Deep Learning**
-- 🌐 **Développement Web Fullstack**
-- 📱 **Développement Mobile (React Native)**
-- 🔒 **CyberSécurité & CTF**
-- 🕸️ **Web Scraping & Automatisation**
-- 🚀 **DevOps & Déploiement**
+- 🌐 **Fullstack Web Development**
+- 📱 **Mobile Development (React Native)**
+- 🔒 **Cybersecurity & CTF**
+- 🕸️ **Web Scraping & Automation**
+- 🚀 **DevOps & Deployment**
 
 ---
 
-## 🧠 Compétences
+## 🧠 Skills
 
-### 💡 IA & Data Science
+### 💡 AI & Data Science
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
@@ -48,21 +48,21 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react)
 
-### 🛡️ CyberSécurité & Scraping
+### 🛡️ Cybersecurity & Scraping
 
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-yellow?style=flat)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
 
-### 🛠️ Outils & DevOps
+### 🛠️ Tools & DevOps
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
 
-## 💪 Technos Maîtrisées
+## 💪 Technologies Mastered
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,django,fastapi,php,nodejs,react,reactnative,flutter,html,css,js,linux,docker,git,github,kali" width="90%" />
@@ -70,14 +70,11 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BJeff17&theme=tokyonight" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BJeff17&theme=tokyonight" width="30%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BJeff17&theme=tokyonight&utcOffset=8" width="30%"/>
 </p>
-
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
@@ -86,10 +83,20 @@ Je m'épanouis dans les défis techniques, les algorithmes, l'automatisation et 
 
 ---
 
-## 📬 Me Contacter
+## 🚀 What Drives Me
 
-- Email : [jeffvieyra17@gmail.com](mailto:jeffvieyra17@gmail.com)
-- LinkdIn : [www.linkedin.com/in/jeff-vieyra](www.linkedin.com/in/jeff-vieyra)
+I’m constantly seeking to push the boundaries of technology and innovation.  
+I believe in continuous learning, open source contributions, and sharing knowledge with the community.  
+
+In my free time, you’ll find me exploring new AI architectures, solving CTF challenges, automating boring tasks to save time,  
+and sharpening my strategic thinking through my passion for **chess** — a game that teaches patience, foresight, and problem-solving.
+
+---
+
+## 📬 Get in Touch
+
+- Email: [jeffvieyra17@gmail.com](mailto:jeffvieyra17@gmail.com)  
+- LinkedIn: [www.linkedin.com/in/jeff-vieyra](https://www.linkedin.com/in/jeff-vieyra)
 
 ---
 
