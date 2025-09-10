@@ -5,7 +5,6 @@
 
 Hello! I’m a passionate developer crafting **smart**, **efficient**, and **secure** solutions.  
 I thrive on technical challenges, algorithms, automation, and CTFs.
-
 ---
 
 ## 🧩 My Expertise
