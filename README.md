@@ -77,7 +77,8 @@ I thrive on technical challenges, algorithms, automation, and CTFs.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BJeff17&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://streak-stats.demolab.com/?user=BJeff17&theme=tokyonight" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=BJeff17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+
 </p>
 
 ---
