@@ -96,7 +96,7 @@ and sharpening my strategic thinking through my passion for **chess** — a game
 ## 📬 Get in Touch
 
 - Email: [jeffvieyra17@gmail.com](mailto:jeffvieyra17@gmail.com)  
-- LinkedIn: [www.linkedin.com/in/jeff-vieyra](https://www.linkedin.com/in/jeff-vieyra)
+- LinkedIn: [www.linkedin.com/in/jeff-vieyra](https://www.linkedin.com/in/jeff--vieyra)
 
 ---
 
