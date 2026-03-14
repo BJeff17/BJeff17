@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Hi%20👋%20I%27m%20a%20Self-Taught%20Engineer!&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=ML%20%7C%20Fullstack%20%7C%20Cybersecurity%20%7C%20Mobile%20%7C%20Scraping&descSize=20&descAlign=65" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Hi%20👋%20I%27m%20a%20Software%20Engineer!&fontColor=ffffff&fontSize=40&fontAlignY=30&desc=ML%20%7C%20Fullstack%20%7C%20Cybersecurity%20%7C%20Mobile%20%7C%20Scraping&descSize=20&descAlign=65" alt="banner"/>
 
 #  Self-Taught Engineer: AI • Fullstack • Cybersecurity • Mobile
 
