@@ -88,6 +88,8 @@ I thrive on technical challenges, algorithms, automation, and CTFs.
 I’m constantly seeking to push the boundaries of technology and innovation.  
 I believe in continuous learning, open source contributions, and sharing knowledge with the community.  
 
+I really like to get my hands dirty, building from the ground up to create what we all consider the foundation.
+
 In my free time, you’ll find me exploring new AI architectures, solving CTF challenges, automating boring tasks to save time,  
 and sharpening my strategic thinking through my passion for **chess** — a game that teaches patience, foresight, and problem-solving.
 
